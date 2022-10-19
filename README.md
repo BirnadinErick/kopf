@@ -1,7 +1,11 @@
+![kopf_banner](./images/kopf.png)
+
 # kopf
 
 Ambitious Experimental Database Management System written to experiment with
 techniques and concepts I learn to mimic/mock(as nearly as possible) the brain.
+
+Documented my journey at [my blog](https://fyi.birnadine.guru/series/forging-die-kopf)
 
 ---
 
@@ -51,8 +55,8 @@ diversed ecosystem 😉.
 ## Updates and Follow Ups
 
 I am planning on blogging my journey in this train on my personal website and
-personal *Hashnode* side. My journey will be called *Forging die kopf*, follow
-me up there to get a quick grasp of what the f*@k is giong on 😁.
+personal *Hashnode* side. My journey will be called [*Forging die kopf*](https://fyi.birnadine.guru/series/forging-die-kopf),
+follow me up there to get a quick grasp of what the f*@k is giong on 😁.
 
 ---
 
