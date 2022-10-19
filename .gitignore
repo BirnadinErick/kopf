@@ -1,0 +1,7 @@
+# ignore files used for designs
+**/*.psd
+
+# ignore deps
+**/node_modules
+**/target
+
